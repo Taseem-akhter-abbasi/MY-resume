@@ -1,0 +1,8 @@
+/* In your global CSS file (e.g., index.css or App.css) */
+body {
+    background-color: #1B1212; /* Hex value */
+    /* Alternatively, use the RGB value */
+    /* background-color: rgb(27, 18, 18); */
+    height: 100vh; /* Ensure it covers the entire viewport */
+    margin: 0; /* Remove default margin */
+}
